@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/searchmybook/static/css/main.54f4eaff.css",
+    "main.js": "/searchmybook/static/js/main.e2dc7b3a.js",
+    "static/media/library-img.jpg": "/searchmybook/static/media/library-img.4c355c0290b94d1fe920.jpg",
+    "static/media/cover_not_found.jpg": "/searchmybook/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/about-img.jpg": "/searchmybook/static/media/about-img.b7521da541400a1eefdb.jpg",
+    "index.html": "/searchmybook/index.html",
+    "static/media/loader.svg": "/searchmybook/static/media/loader.a3343f12420f3160e32c5317638f2198.svg",
+    "main.54f4eaff.css.map": "/searchmybook/static/css/main.54f4eaff.css.map",
+    "main.e2dc7b3a.js.map": "/searchmybook/static/js/main.e2dc7b3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54f4eaff.css",
+    "static/js/main.e2dc7b3a.js"
+  ]
+}
